@@ -28,6 +28,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/jeniferks/jeniferks/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/jeniferks/jeniferks/blob/output/github-contribution-grid-snake.svg)
 
 ###
