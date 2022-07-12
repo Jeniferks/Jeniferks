@@ -1,8 +1,8 @@
-<div>
+<div align="center">
   <a href="https://github.com/jeniferks">
-  <img height="180em"   align="right" src="https://github-readme-stats.vercel.app/api?username=jeniferks&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniferks&layout=compact&langs_count=7&theme=react" />
-  <img align="right" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=jeniferks&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniferks&layout=compact&langs_count=7&theme=react" />
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
  <br>
 <div  align="center"> 
@@ -15,10 +15,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-
-    
-
 </div>
+
   <br><a href="https://www.instagram.com/jeniferkindermann/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
