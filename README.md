@@ -27,9 +27,7 @@
 </div>
 
 ###
-<div>
-![Snake animation](https://github.com/jeniferks/jeniferks/blob/output/github-contribution-grid-snake.svg)
-<div>
 
+![Snake animation](https://github.com/jeniferks/jeniferks/blob/output/github-contribution-grid-snake.svg)
 ###
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
+
