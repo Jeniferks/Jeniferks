@@ -31,4 +31,3 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=jeniferks&repo=jeniferks&theme=react)](https://github.com/jeniferks/jeniferks)
