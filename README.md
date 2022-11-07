@@ -1,4 +1,8 @@
-### Olá! Eu sou a Jenifer Kindermann ✌️
+
+<div align="center">
+    <h2>Olá! Eu sou a Jenifer Kindermann ✌️</h2>
+</div>
+
 <br/>
 
 <div align="center">
