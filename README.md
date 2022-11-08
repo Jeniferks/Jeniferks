@@ -11,9 +11,9 @@
 </div>
 
 <div align="center">
-    <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    <img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jenifer.kindermannsilveira/"/>
+    <a href= "https://www.linkedin.com/in/jenifer-kindermann/" target="_ blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_ blank"></a>
+   <a href= "https://www.instagram.com/jeniferkindermann/" target="_ blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+   <a href= "https://www.facebook.com/jenifer.kindermannsilveira/" target="_ blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jenifer.kindermannsilveira/" target="_ blank"></a>
 </div>
 
 <div style="display:inline_block" align="center"><br/>
